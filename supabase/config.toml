@@ -1,0 +1,2 @@
+[functions.cbt-api]
+verify_jwt = false
